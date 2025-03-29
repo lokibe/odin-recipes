@@ -1,0 +1,1 @@
+Hello, i will create a simple recipes website as part of The Odin Project Introduction Tutorial! Wish me luck. The millionth time is the charm!
